@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates meta deta identifying the folder as a repository. So that the folder becomes a git repo.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is only on your local machine, and you cannot edit files in it. It allows you to organise your commits logically before finally adding them to the repo.
+
