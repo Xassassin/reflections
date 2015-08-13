@@ -17,3 +17,19 @@ When experimenting or refactoring. It allows you to keep the history of the chan
 How do the diagrams help you visualize the branch structure?
 
 You can trace the diagrams to understand which branches have what features. fixes, changes, etc...
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A single branch with the commits from both branches. To emppha size that the changes happened on 2 separatly
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git Merge:
+Pro: Merge most changes automatically without need for user interaction
+Cons: Some obvious megres would create conflict
+	- Some changes refereing to code that is removed by another user would not be caught
+
+Manual Merge:
+Pro: Always merges the code correctly
+Con: Very tidious
+	- Mostly unecessary user interaction
