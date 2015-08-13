@@ -8,3 +8,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 The branch your working on might change on you while you are still working on it, and your commits would not work anymore.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: Clones on GitHub only (clones of repos)
+Clone: Copy of a remote repo
+branch: Split within the same repo
