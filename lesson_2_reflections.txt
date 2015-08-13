@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is only on your local machine, and you cannot edit files in it. It allows you to organise your commits logically before finally adding them to the repo.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+do a diff on the staging area and make sure the code in is only regarding the 1 logical change that you want to commit.
