@@ -24,3 +24,9 @@ Sending e-mails or svn
 
 E-mails would make it really hard to fix issues everywhere with everyone for more than 2 people.
 SVN covers alot of this stuf, it just makes merge near impossible to be clean
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Changes are not ready for the public/production level of your files.
+
+Keeps the master branch clean and always the latest stable code
