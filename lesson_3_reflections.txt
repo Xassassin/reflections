@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 - When you want to share with other users, and make sure they have access when you are offline.
 - Have access to your files from other machines even when your main machine is offline.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+The branch your working on might change on you while you are still working on it, and your commits would not work anymore.
+
