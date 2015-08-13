@@ -17,3 +17,10 @@ branch: Split within the same repo
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So that you now where your commits fit within the repo.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Sending e-mails or svn
+
+E-mails would make it really hard to fix issues everywhere with everyone for more than 2 people.
+SVN covers alot of this stuf, it just makes merge near impossible to be clean
